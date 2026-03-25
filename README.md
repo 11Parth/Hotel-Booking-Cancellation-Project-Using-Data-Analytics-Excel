@@ -1,4 +1,4 @@
-<h1>Hotel Booking Cancellations</h1>
+<h1>Data Analysis of Hotel Booking Cancellations</h1>
 
 This project focuses on analyzing hotel booking data to identify patterns, trends, and key insights that can help improve business decisions. The dataset includes information such as booking dates, customer details, room types, cancellations, and pricing.
 <br>
